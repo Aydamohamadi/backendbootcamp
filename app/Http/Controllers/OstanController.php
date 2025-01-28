@@ -12,4 +12,5 @@ class OstanController extends Controller
      return response()->json(['result' => $result], 200);
 
     }
+
 }
